@@ -1,0 +1,42 @@
+[
+  {
+    "username": "alice_rossi",
+    "password": "password123"
+  },
+  {
+    "username": "bob_verdi",
+    "password": "securePasswordBob"
+  },
+  {
+    "username": "carla_bianchi",
+    "password": "carlaPass!2024"
+  },
+  {
+    "username": "david_neri",
+    "password": "mySecretDavid"
+  },
+  {
+    "username": "elena_gialli",
+    "password": "elenaP@sswOrd"
+  },
+  {
+    "username": "franco_bruni",
+    "password": "franco1988"
+  },
+  {
+    "username": "giulia_russo",
+    "password": "giulia_secret_7"
+  },
+  {
+    "username": "luca_ferrari",
+    "password": "lucaAccessCode"
+  },
+  {
+    "username": "maria_esposito",
+    "password": "mariaPass99"
+  },
+  {
+    "username": "nico_romano",
+    "password": "nicoXYZ_pass"
+  }
+]

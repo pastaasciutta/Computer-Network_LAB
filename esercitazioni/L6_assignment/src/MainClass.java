@@ -1,0 +1,18 @@
+/* Scrivere un programma JAVA che implementa un server HTTP che gestisce
+   richieste di trasferimento di file di diverso tipo (es. immagini jpeg, gif)
+   provenienti da un browser web.
+
+   Il server
+   - sta in ascolto su una porta nota al client (es. 6789)
+   - gestisce richieste HTTP di tipo GET alla Request URL localhost:port/filename
+
+   Ulteriori indicazioni
+   - le connessioni possono essere non persistenti.
+   - usare le classi Socket e ServerSocket per sviluppare il programma server
+   - per inviare al server le richieste, utilizzare un qualsiasi browser */
+
+public class MainClass {
+    public static void main(String[] args) {
+
+    }
+}

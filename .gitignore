@@ -1,0 +1,30 @@
+# Zone.Identifier WINDOWS
+*:Zone.Identifier
+*.Zone.Identifier
+
+# ZIP (CRITICO)
+*.zip
+**/*.zip
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Java Compiled
+*.class
+target/
+build/
+*.jar
+
+# Maven/Gradle
+.m2/
+.gradle/
+
+# Logs/Temp
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
