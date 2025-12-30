@@ -14,4 +14,5 @@ esercitazioni2/ - latest assignments
 ## Usage
 from cmd line reach any src directory and type
 
+	javac ClassMainName.java
 	java ClassMainName
